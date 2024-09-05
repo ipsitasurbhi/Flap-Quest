@@ -33,7 +33,7 @@ A simple Flappy Bird clone purely coded in Java using `javax.swing`, `java.awt.*
 - Add a menu screen with a start, pause, and reset option.
 - Include animations for the bird and pipes.
 
-## Screenshot of the game
+## Screenshot of the Game
 ![Screenshot 2024-09-06 013028](https://github.com/user-attachments/assets/1d2d4e56-27d0-43d7-b689-07bff5cb7815)
 
 
