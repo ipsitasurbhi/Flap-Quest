@@ -38,6 +38,6 @@ A simple Flappy Bird clone purely coded in Java using `javax.swing`, `java.awt.*
 
 
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 Enjoy the game! 🎮
