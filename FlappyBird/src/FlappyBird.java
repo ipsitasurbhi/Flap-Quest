@@ -206,7 +206,6 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener {
 
     @Override
     public void keyTyped(KeyEvent e) {
-        for ()
     }
 
     @Override
