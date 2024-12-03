@@ -1,6 +1,6 @@
 # Flap Quest Game
 
-A flap bird game purely coded in Java using `javax.swing`, `java.awt.*`, `java.awt.event.*`, `java.util.ArrayList`, and `java.util.Random`. This game features a bird that the player controls by pressing the **Enter** key to make it jump or move upwards. If the player does not press the key, the bird falls due to gravity, and the game ends when the bird hits the ground or a pipe.
+Developed a 2D game where players control a bird navigating through obstacles, inspired by the Flappy Bird Game. This game features a bird that the player controls by pressing the **Enter** key to make it jump or move upwards. If the player does not press the key, the bird falls due to gravity, and the game ends when the bird hits the ground or a pipe.
 
 ## Game Features
 - **Bird Movement:** Press the **Enter** key to make the bird jump. Without user input, the bird falls automatically.
